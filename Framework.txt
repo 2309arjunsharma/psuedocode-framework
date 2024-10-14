@@ -1,0 +1,17 @@
+PROCESS TO SOLVE A PROBLEM
+
+1.Analyze your Problem.   [INPUT,OUTPUT,CONSTRAINT]
+
+2.Break down problem into smaller subparts
+
+3.Remember/enlist the concept
+
+4.Take 2-3 examples    [Clear out confusion/gap]
+
+5.Write a psuedocode on a paper       [for(i-n)]
+
+6.Dry run it once
+
+7.Write down your solution
+
+8.Look out for edge cases/boundary condition*     [IMP]
